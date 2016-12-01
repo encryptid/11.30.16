@@ -14,11 +14,14 @@
 .name {
     flex-grow: 1;
     border-right: 1px solid;
+    width: 45%;
+    margin: auto;
 }
 
 .company {
 flex-grow: 1;
-
+width: 45%;
+margin: auto;
 }
 
 div.row2 {
@@ -64,4 +67,8 @@ div.row3 {
 
 .language {
     flex-grow: 1;
+}
+
+.button {
+    text-align: center;
 }
